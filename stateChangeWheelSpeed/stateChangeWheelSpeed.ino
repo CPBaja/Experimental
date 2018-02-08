@@ -1,7 +1,7 @@
 #include <math.h>
 #include <WheelSpeed.h>
 
-WheelSpeed myWheel = WheelSpeed(2, 1);
+WheelSpeed myWheel = WheelSpeed(3, 1);
 
 unsigned long prevTime;
 
